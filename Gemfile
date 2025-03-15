@@ -3,6 +3,8 @@ source "https://rubygems.org"
 gem "rails", "~> 8.0.2"
 
 gem "bootsnap", require: false
+gem "faraday"
+gem "hashie"
 gem "importmap-rails"
 gem "jbuilder"
 gem "kamal", require: false
